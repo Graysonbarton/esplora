@@ -33,7 +33,7 @@
     "rxjs": "^7.8.2",
     "rxjs-compat": "^6.6.3",
     "snabbdom-pragma": "^2.8.0",
-    "superagent": "^6.1.0",
+    "superagent": "^10.2.3",
     "uglifyify": "^5.0.2"
   },
   "browserify": {
